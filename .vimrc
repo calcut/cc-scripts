@@ -55,7 +55,8 @@ colorscheme solarized
 
 " Whitespace
 set wrap
-set textwidth=79
+set textwidth=0
+"set textwidth=79 " Not used, can be annoying
 set formatoptions=tcqrn1
 set tabstop=4
 set shiftwidth=4
